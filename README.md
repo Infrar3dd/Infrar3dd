@@ -23,9 +23,3 @@ I work on my own and solve tasks on platforms like RootMe, HTB, THM and etc.
      <a href="https://www.kali.org/tools/metasploit-framework/"><img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg", width=60/></a>
 </p>
 
-## My links
-<p align="center" dir="auto">
-     <a href="https://www.root-me.org/infrar3d"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRSYdq2aOE8QLjjvM5wbnWVBVofGp6RpDSRg&s" width=60/></a>
-     <a href="https://app.hackthebox.com/profile/2479783"><img src="https://www.svgrepo.com/show/331423/hack-the-box.svg" width=60/></a>
-     <a href="https://tryhackme.com/p/infrar3d"><img src="https://i.pinimg.com/564x/e4/9e/cf/e49ecf40c7fdf87b783f5d2b575fe517.jpg" width=60/></a>
-</p>
