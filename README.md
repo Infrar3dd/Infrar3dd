@@ -23,6 +23,7 @@ I work on my own and solve tasks on platforms like RootMe, HTB, THM and etc | Ex
      <a href="https://www.kali.org/tools/metasploit-framework/"><img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg", width=60/></a>
 </p>
 
+
 # ⚠️ Disclaimer
 
 This software and proof-of-concept code is provided **for educational and research purposes only**. 
