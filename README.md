@@ -4,8 +4,6 @@
 
 I work on my own and solve tasks on platforms like RootMe, HTB, THM and etc.
 
-## !!! All exploits, projects and security tools are for educational purposes only. Intended for use in authorized testing environments !!!
-
 ## Skills
 
 <p align="left" dir="auto">
@@ -25,3 +23,4 @@ I work on my own and solve tasks on platforms like RootMe, HTB, THM and etc.
      <a href="https://www.kali.org/tools/metasploit-framework/"><img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg", width=60/></a>
 </p>
 
+## !!! All exploits, projects and security tools are for educational purposes only. Intended for use in authorized testing environments !!!
