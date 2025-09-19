@@ -4,6 +4,8 @@
 
 I work on my own and solve tasks on platforms like RootMe, HTB, THM and etc.
 
+## !!! All exploits, projects and security tools are for educational purposes only. Intended for use in authorized testing environments !!!
+
 ## Skills
 
 <p align="left" dir="auto">
