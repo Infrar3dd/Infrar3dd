@@ -2,7 +2,7 @@
      
 ## Offensive security researcher
 
-I work on my own and solve tasks on platforms like RootMe, HTB, THM and etc.
+I work on my own and solve tasks on platforms like RootMe, HTB, THM and etc | Exploit and software development for educational purposes only
 
 ## Skills
 
@@ -23,4 +23,12 @@ I work on my own and solve tasks on platforms like RootMe, HTB, THM and etc.
      <a href="https://www.kali.org/tools/metasploit-framework/"><img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg", width=60/></a>
 </p>
 
-## !!! All exploits, projects and security tools are for educational purposes only. Intended for use in authorized testing environments !!!
+# ⚠️ Disclaimer
+
+This software and proof-of-concept code is provided **for educational and research purposes only**. 
+
+*   The author is **not responsible** for any misuse or damage caused by this program.
+*   **Do not use** against any systems without explicit **prior permission**.
+*   Use of this tool for attacking targets without consent is **illegal**.
+
+You are responsible for obeying all applicable laws. **Use ethically and responsibly.**
