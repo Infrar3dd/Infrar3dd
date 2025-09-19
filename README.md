@@ -1,6 +1,6 @@
 <p align="center" dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&repeat=false&width=435&lines=Hello+there!;+I'm+infrar3d+%3A%5D" alt="Typing SVG" /></a> </p>
      
-## Offensive security researcher
+## Offensive security researcher | Focused on ethical security research and vulnerability discovery
 
 I work on my own and solve tasks on platforms like RootMe, HTB, THM and etc | Exploit and software development for educational purposes only
 
