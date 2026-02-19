@@ -1,8 +1,8 @@
 <p align="center" dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&repeat=false&width=435&lines=Hello+there!;+I'm+infrar3d+%3A%5D" alt="Typing SVG" /></a> </p>
      
-## Offensive security researcher | Focused on ethical security research and vulnerability discovery
+## Offensive security researcher
 
-I work on my own and solve tasks on platforms like RootMe, HTB, THM and etc | Exploit and software development for educational purposes only
+I participate in bug bounty, solve tasks on platforms like RootMe, HTB, THM and etc. and play CTF | Exploits and software development for educational purposes only
 
 ## Skills
 
@@ -22,6 +22,14 @@ I work on my own and solve tasks on platforms like RootMe, HTB, THM and etc | Ex
      <a href="https://www.kali.org/tools/hashcat/"><img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg", width=60/></a>
      <a href="https://www.kali.org/tools/metasploit-framework/"><img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg", width=60/></a>
 </p>
+
+## Projects:
+
+[LeaveNoTrace](https://github.com/Infrar3dd/leavenotrace) - An utility for clearing logs
+
+[macgen](https://github.com/Infrar3dd/macgen) - MAC changer
+
+[CTF tasks](https://github.com/Infrar3dd/CTF-Tasks) - Tasks from CTF and their solution and my own tasks
 
 # ⚠️ Disclaimer ⚠️
 
