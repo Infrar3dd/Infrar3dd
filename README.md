@@ -1,4 +1,4 @@
-<p align="center" dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=D004F7&center=true&vCenter=true&repeat=false&width=435&height=70&lines=Hello+there!;I'm+infrar3d+%3A%5D" alt="Typing SVG" /></a></p>
+<p align="center" dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Hello+there!;I'm+infrar3d+%3A%5D" alt="Typing SVG" /></a></p>
      
 ## Offensive security researcher | Reverse Engineer
 
