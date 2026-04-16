@@ -1,10 +1,8 @@
 <p align="center" dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Hello+there!;I'm+infrar3d+%3A%5D" alt="Typing SVG" /></a></p>
      
-## Offensive security researcher | Reverse Engineer
+## Offensive security researcher | Reverse Engineer [Industri4l H3ll](https://github.com/Industri4l-H3ll-Xpl0it3rs) xpl0it3r
 
 I participate in bug bounty, solve tasks on platforms like RootMe, HTB, THM and etc., play CTF and reverse software and malwares to understand how they work
-
-Now I'm a researcher in [Industri4l H3ll Xpl0it3rs](https://github.com/Industri4l-H3ll-Xpl0it3rs)
 
 Exploits and software development for educational purposes only
 
