@@ -23,6 +23,8 @@ I participate in bug bounty, solve tasks on platforms like RootMe, HTB, THM and 
      <a href="https://www.kali.org/tools/metasploit-framework/"><img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg", width=60/></a>
      <a href="https://www.kali.org/tools/sqlmap/"><img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg", width=60/></a>
      <a href="https://hex-rays.com/ida-pro"><img src="https://static.wikitide.net/zenithwiki/0/0d/IDAIcon.png", width=60/></a>
+     <a href="https://x64dbg.com/"><img src="https://x64dbg.com/img/icon-white.png", width=60/></a>
+     <a href="http://ghidra.net/"><img src="http://ghidra.net/images/GHIDRA.png", width=60/></a>
 </p>
 
 ## Projects:
