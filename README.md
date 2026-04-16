@@ -2,7 +2,11 @@
      
 ## Offensive security researcher | Reverse Engineer
 
-I participate in bug bounty, solve tasks on platforms like RootMe, HTB, THM and etc. and play CTF | Exploits and software development for educational purposes only
+I participate in bug bounty, solve tasks on platforms like RootMe, HTB, THM and etc., play CTF and reverse software and malwares to understand how they work
+
+Now I'm a researcher in [Industri4l H3ll Xpl0it3rs](https://github.com/Industri4l-H3ll-Xpl0it3rs)
+
+Exploits and software development for educational purposes only
 
 ## Skills
 
