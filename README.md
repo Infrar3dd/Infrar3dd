@@ -7,6 +7,7 @@ I participate in bug bounty, solve tasks on platforms like RootMe, HTB, THM and 
 ## Skills
 
 <p align="left" dir="auto">
+     <a href="https://www.linux.org/"><img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/Tux_%283-color%29.svg/revision/latest/scale-to-width-down/1200?cb=20241002064834" width=70/></a>
      <a href="https://www.kali.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-plain-wordmark.svg" width=70/></a>
      <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg", width=60/></a>
      <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg", width=60/></a>
