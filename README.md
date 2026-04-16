@@ -14,6 +14,7 @@ I participate in bug bounty, solve tasks on platforms like RootMe, HTB, THM and 
      <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg", width=60/></a>
      <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg", width=60/></a>
      <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg", width=60/></a>
+     <a href="https://docs.ansible.com/"><img src="https://blog.stoneriverelearning.com/wp-content/uploads/2016/03/ansible.png", width=60/></a>
      <a href="https://www.kali.org/tools/nmap/"><img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg", width=60/></a>
      <a href="https://www.kali.org/tools/burpsuite/"><img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg", width=60/></a>
      <a href="https://www.kali.org/tools/wireshark/"><img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg", width=60/></a>
