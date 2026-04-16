@@ -1,6 +1,6 @@
 <p align="center" dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&repeat=false&width=435&lines=Hello+there!;+I'm+infrar3d+%3A%5D" alt="Typing SVG" /></a> </p>
      
-## Offensive security researcher
+## Offensive security researcher | Reverse Engineer
 
 I participate in bug bounty, solve tasks on platforms like RootMe, HTB, THM and etc. and play CTF | Exploits and software development for educational purposes only
 
@@ -21,6 +21,8 @@ I participate in bug bounty, solve tasks on platforms like RootMe, HTB, THM and 
      <a href="https://www.kali.org/tools/peass-ng/"><img src="https://www.kali.org/tools/peass-ng/images/peass-ng-logo.svg", width=60/></a>
      <a href="https://www.kali.org/tools/hashcat/"><img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg", width=60/></a>
      <a href="https://www.kali.org/tools/metasploit-framework/"><img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg", width=60/></a>
+     <a href="https://www.kali.org/tools/sqlmap/"><img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg", width=60/></a>
+     <a href="https://hex-rays.com/ida-pro"><img src="https://static.wikitide.net/zenithwiki/0/0d/IDAIcon.png", width=60/></a>
 </p>
 
 ## Projects:
