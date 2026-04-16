@@ -30,6 +30,7 @@ Exploits and software development for educational purposes only
      <a href="http://ghidra.net/"><img src="http://ghidra.net/images/GHIDRA.png", width=60/></a>
      <a href="https://github.com/dnspy/dnspy"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJCnoACP7CJtmGK-UpZqoDeJOazC8hybferQ&s", width=70/></a>
      <a href="https://x64dbg.com/"><img src="https://camo.githubusercontent.com/bb64ce6ef5c5f58bcd3e998ff7650a4852309c28974e51445881a5ec581731c8/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763536152686572575f5f767541393057314d554f317370554e2d475f6672337577313139412673", width=50/></a>
+     <a href="https://github.com/skylot/jadx"><img src="https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png", width=50/></a>
 </p>
 
 ## Projects:
