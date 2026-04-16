@@ -30,7 +30,15 @@ I participate in bug bounty, solve tasks on platforms like RootMe, HTB, THM and 
 
 ## Projects:
 
+[Industri4l H3ll Xpl0it3rs](https://github.com/Industri4l-H3ll-Xpl0it3rs) - My team repo (my works are here too)
+
+[RevServ](https://github.com/Industri4l-H3ll-Xpl0it3rs/revserv) - A tool to set up a reverse shell server quickly
+
 [LeaveNoTrace](https://github.com/Infrar3dd/leavenotrace) - An utility for clearing logs
+
+[ZAP-automatization](https://github.com/Infrar3dd/ZAP-automatization) - A script to make ZAP scanning and a report quickly
+
+[contpch](https://github.com/Infrar3dd/contpch) - A script to check containered processes
 
 [macgen](https://github.com/Infrar3dd/macgen) - MAC changer
 
